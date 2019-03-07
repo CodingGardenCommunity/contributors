@@ -20,6 +20,10 @@ Your github username.
 
 The URL to a square image to be used on the contributors page. Ideally, use your github image URL.
 
+### Country Code
+
+3 letter country code. Choose a code from the official ISO list: https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes
+
 ### Joined
 
 The date when you joined the Coding Garden Community App team.
@@ -46,6 +50,7 @@ Contributor info is in the following format:
   "name": "CJ",
   "github": "w3cj",
   "image": "https://avatars1.githubusercontent.com/u/14241866",
+  "country_code": "USA",
   "active": true,
   "joined": "2018-12-16",
   "team_ids": [0, 1, 2, 3, 4]
