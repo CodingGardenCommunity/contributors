@@ -6,4 +6,12 @@
   "active": true,
   "joined": "2018-12-16",
   "team_ids": [0, 1, 2, 3, 4]
+},{
+  "name": "TommyJ",
+  "github": "ewenjo",
+  "image": "https://avatars1.githubusercontent.com/u/35172239",
+  "country_code": "NOR",
+  "active": true,
+  "joined": "2019-3-3",
+  "team_ids": [2, 3, 5]
 }]
