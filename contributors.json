@@ -1,9 +1,20 @@
-[{
-  "name": "CJ",
-  "github": "w3cj",
-  "image": "https://avatars1.githubusercontent.com/u/14241866",
-  "country_code": "USA",
-  "active": true,
-  "joined": "2018-12-16",
-  "team_ids": [0, 1, 2, 3, 4]
-}]
+[
+  {
+    "name": "CJ",
+    "github": "w3cj",
+    "image": "https://avatars1.githubusercontent.com/u/14241866",
+    "country_code": "USA",
+    "active": true,
+    "joined": "2018-12-16",
+    "team_ids": [0, 1, 2, 3, 4]
+  },
+  {
+    "name": "George Stone",
+    "github": "westborn",
+    "image": "https://avatars0.githubusercontent.com/u/11206751",
+    "country_code": "AUS",
+    "active": true,
+    "joined": "2019-01-27",
+    "team_ids": [2, 3, 4, 5]
+  }
+]
