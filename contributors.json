@@ -6,4 +6,12 @@
   "active": true,
   "joined": "2018-12-16",
   "team_ids": [0, 1, 2, 3, 4]
+}, {
+  "name": "Derkarol",
+  "github": "derkarol",
+  "image": "https://avatars1.githubusercontent.com/u/17281059",
+  "country_code": "POL",
+  "active": true,
+  "joined": "2019-03-16",
+  "team_ids": [0, 1, 2]
 }]
