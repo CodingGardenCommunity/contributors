@@ -9,6 +9,7 @@
     "prettier": "1.16.4"
   },
   "scripts": {
+    "test": "prettier --check contributors.json",
     "format": "prettier --write contributors.json"
   },
   "repository": {
