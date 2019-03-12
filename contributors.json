@@ -1,4 +1,5 @@
-[{
+[
+  {
     "name": "CJ",
     "github": "w3cj",
     "image": "https://avatars1.githubusercontent.com/u/14241866",
@@ -6,7 +7,8 @@
     "active": true,
     "joined": "2018-12-16",
     "team_ids": [0, 1, 2, 3, 4]
-}, {
+  },
+  {
     "name": "YSpira",
     "github": "spiray",
     "image": "https://avatars0.githubusercontent.com/u/26689583",
@@ -14,4 +16,5 @@
     "active": true,
     "joined": "2018-12-07",
     "team_ids": [0, 3]
-}]
+  }
+]

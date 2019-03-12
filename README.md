@@ -4,7 +4,17 @@ This repo holds the `contributors.json` file that is used to load contributor in
 
 ## Adding / updating a contributor
 
+```sh
+npm install # install prettier and pre-commit hooks
+```
+
 Create a pull request with the contributor info added at the end of the `contributors.json` file.
+
+Format the file using the built in prettier rules before committing:
+
+```sh
+npm run format
+```
 
 ## Contributor Info
 
