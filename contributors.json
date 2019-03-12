@@ -7,5 +7,14 @@
     "active": true,
     "joined": "2018-12-16",
     "team_ids": [0, 1, 2, 3, 4]
+  },
+  {
+    "name": "Kristian Wichmann",
+    "github": "kwichmann",
+    "image": "https://avatars3.githubusercontent.com/u/10452808",
+    "country_code": "DEN",
+    "active": true,
+    "joined": "2019-01-05",
+    "team_ids": [2]
   }
 ]
