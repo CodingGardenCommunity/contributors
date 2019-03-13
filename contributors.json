@@ -16,5 +16,14 @@
     "active": true,
     "joined": "2019-01-27",
     "team_ids": [2, 3, 4, 5]
+  },
+  {
+    "name": "YSpira",
+    "github": "spiray",
+    "image": "https://avatars0.githubusercontent.com/u/26689583",
+    "country_code": "USA",
+    "active": true,
+    "joined": "2018-12-07",
+    "team_ids": [0, 3]
   }
 ]
