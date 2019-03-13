@@ -43,5 +43,14 @@
     "active": true,
     "joined": "2019-02-09",
     "teamIds": [2, 3, 5]
+  },
+  {
+    "name": "TommyJ",
+    "github": "ewenjo",
+    "image": "https://avatars1.githubusercontent.com/u/35172239",
+    "countryCode": "NOR",
+    "active": true,
+    "joined": "2019-3-3",
+    "teamIds": [2, 3, 5]
   }
 ]
