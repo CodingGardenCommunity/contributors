@@ -1,4 +1,4 @@
-
+[
   {
     "name": "CJ",
     "github": "w3cj",
@@ -34,7 +34,8 @@
     "active": true,
     "joined": "2018-12-07",
     "team_ids": [0, 3]
-  },{
+  },
+  {
     "name": "TommyJ",
     "github": "ewenjo",
     "image": "https://avatars1.githubusercontent.com/u/35172239",
@@ -44,4 +45,3 @@
     "team_ids": [2, 3, 5]
   }
 ]
-
