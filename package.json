@@ -1,0 +1,31 @@
+{
+  "name": "contributors",
+  "version": "1.0.0",
+  "description": "This repo holds the `contributors.json` file that is used to load contributor info into the app.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "husky": "^1.3.1",
+    "prettier": "1.16.4"
+  },
+  "scripts": {
+    "test": "prettier --check contributors.json",
+    "format": "prettier --write contributors.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodingGardenCommunity/contributors.git"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "prettier --write contributors.json && git add contributors.json"
+    }
+  },
+  "keywords": [],
+  "author": "CJ R. <cj@null.computer> (https://w3cj.now.sh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodingGardenCommunity/contributors/issues"
+  },
+  "homepage": "https://github.com/CodingGardenCommunity/contributors#readme"
+}
