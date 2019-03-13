@@ -33,7 +33,7 @@
     "countryCode": "USA",
     "active": true,
     "joined": "2018-12-16",
-    "team_ids": [0, 3]
+    "teamIds": [0, 3]
   },
   {
     "name": "Joshua Ferris",
