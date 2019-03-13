@@ -49,7 +49,7 @@
             "countryCode": {
                 "$id": "#/items/properties/countryCode",
                 "type": "string",
-                "title": "3 Charachter Country Code",
+                "title": "3 Letter Country Code",
                 "default": "",
                 "examples": [
                     "USA"
