@@ -1,0 +1,98 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "array",
+    "title": "Contributors to the Coding Garden Community App",
+    "items": {
+        "$id": "#/items",
+        "type": "object",
+        "title": "The Contributor Schema",
+        "required": [
+            "name",
+            "github",
+            "image",
+            "countryCode",
+            "active",
+            "joined",
+            "teamIds"
+        ],
+        "properties": {
+            "name": {
+                "$id": "#/items/properties/name",
+                "type": "string",
+                "title": "First and Last Name",
+                "default": "",
+                "examples": [
+                    "CJ"
+                ],
+                "pattern": "^(.*)$"
+            },
+            "github": {
+                "$id": "#/items/properties/github",
+                "type": "string",
+                "title": "Github Username",
+                "default": "",
+                "examples": [
+                    "w3cj"
+                ],
+                "pattern": "^(.*)$"
+            },
+            "image": {
+                "$id": "#/items/properties/image",
+                "type": "string",
+                "title": "Github Avatar",
+                "default": "",
+                "examples": [
+                    "https://avatars1.githubusercontent.com/u/14241866"
+                ],
+                "pattern": "^(.*)$"
+            },
+            "countryCode": {
+                "$id": "#/items/properties/countryCode",
+                "type": "string",
+                "title": "3 Letter Country Code",
+                "default": "",
+                "examples": [
+                    "USA"
+                ],
+                "pattern": "^(.*)$"
+            },
+            "active": {
+                "$id": "#/items/properties/active",
+                "type": "boolean",
+                "title": "Active Status",
+                "default": false,
+                "examples": [
+                    true
+                ]
+            },
+            "joined": {
+                "$id": "#/items/properties/joined",
+                "type": "string",
+                "title": "Date Joined",
+                "default": "",
+                "examples": [
+                    "2018-12-16"
+                ],
+                "pattern": "^(.*)$"
+            },
+            "teamIds": {
+                "$id": "#/items/properties/teamIds",
+                "type": "array",
+                "title": "",
+                "items": {
+                    "$id": "#/items/properties/teamIds/items",
+                    "type": "integer",
+                    "title": "Teams",
+                    "default": 0,
+                    "examples": [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4
+                    ]
+                }
+            }
+        }
+    }
+}

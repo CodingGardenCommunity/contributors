@@ -3,45 +3,63 @@
     "name": "CJ",
     "github": "w3cj",
     "image": "https://avatars1.githubusercontent.com/u/14241866",
-    "country_code": "USA",
+    "countryCode": "USA",
     "active": true,
     "joined": "2018-12-16",
-    "team_ids": [0, 1, 2, 3, 4]
+    "teamIds": [0, 1, 2, 3, 4]
   },
   {
     "name": "Kristian Wichmann",
     "github": "kwichmann",
     "image": "https://avatars3.githubusercontent.com/u/10452808",
-    "country_code": "DEN",
+    "countryCode": "DEN",
     "active": true,
     "joined": "2019-01-05",
-    "team_ids": [2]
+    "teamIds": [2]
   },
   {
     "name": "George Stone",
     "github": "westborn",
     "image": "https://avatars0.githubusercontent.com/u/11206751",
-    "country_code": "AUS",
+    "countryCode": "AUS",
     "active": true,
     "joined": "2019-01-27",
-    "team_ids": [2, 3, 4, 5]
+    "teamIds": [2, 3, 4, 5]
   },
   {
     "name": "YSpira",
     "github": "spiray",
     "image": "https://avatars0.githubusercontent.com/u/26689583",
-    "country_code": "USA",
+    "countryCode": "USA",
     "active": true,
-    "joined": "2018-12-07",
+    "joined": "2018-12-16",
     "team_ids": [0, 3]
   },
   {
     "name": "Joshua Ferris",
     "github": "joshuaferr1s",
     "image": "https://avatars3.githubusercontent.com/u/22730186",
-    "country_code": "USA",
+    "countryCode": "USA",
     "active": true,
     "joined": "2018-12-16",
-    "team_ids": [0, 1, 2, 3]
+    "teamIds": [0, 1, 2, 3]
+  },
+  {
+    "name": "Eckhardt",
+    "github": "Eckhardt-D",
+    "image": "https://avatars0.githubusercontent.com/u/37825447",
+    "countryCode": "NAM",
+    "active": true,
+    "joined": "2019-02-09",
+    "teamIds": [2, 3, 5]
+  },
+  {
+    "name": "TommyJ",
+    "github": "ewenjo",
+    "image": "https://avatars1.githubusercontent.com/u/35172239",
+    "countryCode": "NOR",
+    "active": true,
+    "joined": "2019-3-3",
+    "teamIds": [2, 3, 5]
   }
 ]
