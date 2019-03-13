@@ -1,13 +1,11 @@
 {
-    "definitions": {},
     "$schema": "http://json-schema.org/draft-07/schema#",
-    "$id": "http://example.com/root.json",
     "type": "array",
-    "title": "The Root Schema",
+    "title": "Contributors to the Coding Garden Community App",
     "items": {
         "$id": "#/items",
         "type": "object",
-        "title": "The Items Schema",
+        "title": "The Contributor Schema",
         "required": [
             "name",
             "github",
@@ -21,7 +19,7 @@
             "name": {
                 "$id": "#/items/properties/name",
                 "type": "string",
-                "title": "The Name Schema",
+                "title": "First and Last Name",
                 "default": "",
                 "examples": [
                     "CJ"
@@ -31,7 +29,7 @@
             "github": {
                 "$id": "#/items/properties/github",
                 "type": "string",
-                "title": "The Github Schema",
+                "title": "Github Username",
                 "default": "",
                 "examples": [
                     "w3cj"
@@ -41,7 +39,7 @@
             "image": {
                 "$id": "#/items/properties/image",
                 "type": "string",
-                "title": "The Image Schema",
+                "title": "Github Avatar",
                 "default": "",
                 "examples": [
                     "https://avatars1.githubusercontent.com/u/14241866"
@@ -51,7 +49,7 @@
             "countryCode": {
                 "$id": "#/items/properties/countryCode",
                 "type": "string",
-                "title": "The Countrycode Schema",
+                "title": "3 Charachter Country Code",
                 "default": "",
                 "examples": [
                     "USA"
@@ -61,7 +59,7 @@
             "active": {
                 "$id": "#/items/properties/active",
                 "type": "boolean",
-                "title": "The Active Schema",
+                "title": "Active Status",
                 "default": false,
                 "examples": [
                     true
@@ -70,7 +68,7 @@
             "joined": {
                 "$id": "#/items/properties/joined",
                 "type": "string",
-                "title": "The Joined Schema",
+                "title": "Date Joined",
                 "default": "",
                 "examples": [
                     "2018-12-16"
@@ -80,11 +78,11 @@
             "teamIds": {
                 "$id": "#/items/properties/teamIds",
                 "type": "array",
-                "title": "The Teamids Schema",
+                "title": "",
                 "items": {
                     "$id": "#/items/properties/teamIds/items",
                     "type": "integer",
-                    "title": "The Items Schema",
+                    "title": "Teams",
                     "default": 0,
                     "examples": [
                         0,
