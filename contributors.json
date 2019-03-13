@@ -36,6 +36,15 @@
     "teamIds": [0, 3]
   },
   {
+    "name": "Eckhardt",
+    "github": "Eckhardt-D",
+    "image": "https://avatars0.githubusercontent.com/u/37825447",
+    "countryCode": "NAM",
+    "active": true,
+    "joined": "2019-02-09",
+    "teamIds": [2, 3, 5]
+  },
+  {
     "name": "TommyJ",
     "github": "ewenjo",
     "image": "https://avatars1.githubusercontent.com/u/35172239",
