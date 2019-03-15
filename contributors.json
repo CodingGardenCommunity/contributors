@@ -59,7 +59,7 @@
     "image": "https://avatars1.githubusercontent.com/u/35172239",
     "countryCode": "NOR",
     "active": true,
-    "joined": "2019-3-3",
+    "joined": "2019-03-03",
     "teamIds": [2, 3, 5]
   },
   {
@@ -70,5 +70,14 @@
     "active": true,
     "joined": "2019-03-04",
     "teamIds": [3]
+  },
+  {
+    "name": "Derkarol",
+    "github": "derkarol",
+    "image": "https://avatars2.githubusercontent.com/u/17281059",
+    "countryCode": "POL",
+    "active": true,
+    "joined": "2019-03-06",
+    "teamIds": [1, 2]
   }
 ]
