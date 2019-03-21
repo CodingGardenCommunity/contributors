@@ -79,5 +79,14 @@
     "active": true,
     "joined": "2019-03-06",
     "teamIds": [1, 2]
+  },
+  {
+    "name": "Semjon Bibow",
+    "github": "sbibow",
+    "image": "https://avatars0.githubusercontent.com/u/5166002",
+    "countryCode": "DEU",
+    "active": true,
+    "joined": "2018-12-16",
+    "teamIds": [0, 4, 5]
   }
 ]
