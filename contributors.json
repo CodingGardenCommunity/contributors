@@ -63,6 +63,15 @@
     "teamIds": [2, 3, 5]
   },
   {
+    "name": "Ryan Shaut",
+    "github": "ryanshaut",
+    "image": "https://avatars3.githubusercontent.com/u/4265693",
+    "countryCode": "USA",
+    "active": true,
+    "joined": "2019-03-04",
+    "teamIds": [3]
+  },
+  {
     "name": "Derkarol",
     "github": "derkarol",
     "image": "https://avatars2.githubusercontent.com/u/17281059",
@@ -79,5 +88,14 @@
     "active": true,
     "joined": "2018-12-16",
     "teamIds": [0, 1, 2, 3, 4]
+  },
+  {
+    "name": "Semjon Bibow",
+    "github": "sbibow",
+    "image": "https://avatars0.githubusercontent.com/u/5166002",
+    "countryCode": "DEU",
+    "active": true,
+    "joined": "2018-12-16",
+    "teamIds": [0, 4, 5]
   }
 ]
