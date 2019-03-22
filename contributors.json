@@ -1,41 +1,5 @@
 [
   {
-    "name": "CJ",
-    "github": "w3cj",
-    "image": "https://avatars1.githubusercontent.com/u/14241866",
-    "countryCode": "USA",
-    "active": true,
-    "joined": "2018-12-16",
-    "teamIds": [0, 1, 2, 3, 4]
-  },
-  {
-    "name": "Kristian Wichmann",
-    "github": "kwichmann",
-    "image": "https://avatars3.githubusercontent.com/u/10452808",
-    "countryCode": "DEN",
-    "active": true,
-    "joined": "2019-01-05",
-    "teamIds": [2]
-  },
-  {
-    "name": "George Stone",
-    "github": "westborn",
-    "image": "https://avatars0.githubusercontent.com/u/11206751",
-    "countryCode": "AUS",
-    "active": true,
-    "joined": "2019-01-27",
-    "teamIds": [2, 3, 4, 5]
-  },
-  {
-    "name": "YSpira",
-    "github": "spiray",
-    "image": "https://avatars0.githubusercontent.com/u/26689583",
-    "countryCode": "USA",
-    "active": true,
-    "joined": "2018-12-16",
-    "teamIds": [0, 3]
-  },
-  {
     "name": "Joshua Ferris",
     "github": "joshuaferr1s",
     "image": "https://avatars3.githubusercontent.com/u/22730186",
@@ -45,33 +9,6 @@
     "teamIds": [0, 1, 2, 3]
   },
   {
-    "name": "Eckhardt",
-    "github": "Eckhardt-D",
-    "image": "https://avatars0.githubusercontent.com/u/37825447",
-    "countryCode": "NAM",
-    "active": true,
-    "joined": "2019-02-09",
-    "teamIds": [2, 3, 5]
-  },
-  {
-    "name": "TommyJ",
-    "github": "ewenjo",
-    "image": "https://avatars1.githubusercontent.com/u/35172239",
-    "countryCode": "NOR",
-    "active": true,
-    "joined": "2019-03-03",
-    "teamIds": [2, 3, 5]
-  },
-  {
-    "name": "Derkarol",
-    "github": "derkarol",
-    "image": "https://avatars2.githubusercontent.com/u/17281059",
-    "countryCode": "POL",
-    "active": true,
-    "joined": "2019-03-06",
-    "teamIds": [1, 2]
-  },
-  {
     "name": "Sean Becker",
     "github": "Sharpie360",
     "image": "https://avatars0.githubusercontent.com/u/36274332",
@@ -79,5 +16,41 @@
     "active": true,
     "joined": "2018-12-16",
     "teamIds": [0, 1, 2, 3, 4]
+  },
+  {
+    "name": "John Someune",
+    "github": "johnsum1",
+    "image": "",
+    "countryCode": "USA",
+    "active": true,
+    "joined": "2018-12-16",
+    "teamIds": [0, 1, 2, 3, 4, 5]
+  },
+  {
+    "name": "Someone with a long name!!!",
+    "github": "Sharpie360",
+    "image": "https://avatars0.githubusercontent.com/u/36274332",
+    "countryCode": "USA",
+    "active": false,
+    "joined": "2025-12-16",
+    "teamIds": []
+  },
+  {
+    "name": "Casey Blanca",
+    "github": "dontmakethejoke@blanca.movie",
+    "image": "",
+    "countryCode": "XYZ",
+    "active": false,
+    "joined": "2018-12-16",
+    "teamIds": [0, 1, 2, 3, 4, 5]
+  },
+  {
+    "name": "Someone with a long name!!!",
+    "github": "Sharpie360",
+    "image": "this is not a valid uri",
+    "countryCode": "USA",
+    "active": true,
+    "joined": "2019-01-05",
+    "teamIds": [2, 4, 5]
   }
 ]
