@@ -97,5 +97,14 @@
     "active": true,
     "joined": "2018-12-16",
     "teamIds": [0, 4, 5]
+  },
+  {
+    "name": "Andreu Cotanda Oliver",
+    "github": "AndCotOli",
+    "image": "https://avatars1.githubusercontent.com/u/27438563",
+    "countryCode": "ESP",
+    "active": true,
+    "joined": "2018-12-16",
+    "teamIds": [0, 2, 3, 4, 5]
   }
 ]
