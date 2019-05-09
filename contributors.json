@@ -115,5 +115,14 @@
     "active": true,
     "joined": "2019-05-08",
     "teamIds": [1, 3, 4, 5]
+  },
+  {
+    "name": "Akash Rajpurohit",
+    "github": "AkashRajpurohit",
+    "image": "https://avatars1.githubusercontent.com/u/30044630",
+    "countryCode": "IND",
+    "active": true,
+    "joined": "2019-05-08",
+    "teamIds": [3, 4, 5]
   }
 ]
