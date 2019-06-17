@@ -36,6 +36,15 @@
     "teamIds": [0, 3]
   },
   {
+    "name": "Jaman Brundage",
+    "github": "jbrundge",
+    "image": "https://avatars3.githubusercontent.com/u/1891935",
+    "countryCode": "USA",
+    "active": true,
+    "joined": "2019-06-16",
+    "teamIds": [0, 1, 2, 3]
+  },
+  {
     "name": "Joshua Ferris",
     "github": "joshuaferr1s",
     "image": "https://avatars3.githubusercontent.com/u/22730186",
