@@ -152,4 +152,13 @@
     "joined": "2019-08-05",
     "teamIds": [2, 3, 4]
   }
+  {
+    "name": "Jeff McHale",
+    "github": "rhithik",
+    "image": "https://avatars3.githubusercontent.com/u/48354921?s=400&u=dda7ee6be6c4d0505d5d6a861679f333d7f40636&v=4",
+    "countryCode": "USA",
+    "active": true,
+    "joined": "2019-09-07"
+    "teamIds": [2]
+},
 ]
