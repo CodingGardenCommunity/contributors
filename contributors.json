@@ -160,5 +160,14 @@
     "active": true,
     "joined": "2019-09-07",
     "teamIds": [2]
+  },
+  {
+    "name": "Nicolás <Nøx> Migueles",
+    "github": "NicoMigueles",
+    "image": "https://avatars0.githubusercontent.com/u/35758739",
+    "countryCode": "ARG",
+    "active": true,
+    "joined": "2019-08-23",
+    "teamIds": [3]
   }
 ]
