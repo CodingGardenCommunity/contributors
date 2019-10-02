@@ -169,5 +169,14 @@
     "active": true,
     "joined": "2019-08-23",
     "teamIds": [3]
+  },
+  {
+    "name": "Jordan Mannfeld",
+    "github": "jmannfeld",
+    "image": "https://avatars3.githubusercontent.com/u/16351524",
+    "countryCode": "USA",
+    "active": true,
+    "joined": "2019-10-01",
+    "teamIds": [1, 2]
   }
 ]
